@@ -12,8 +12,6 @@ jobs:
     - name: Setup .NET Core
       uses: actions/setup-dotnet@v1
       with:
-        dotnet-version: 4.5
+        dotnet-version: 4.5.1
     - name: Build with dotnet
       run: dotnet build
-    - name: Run Unit tests
-      run: dotnet test FrejaEidClientTest/FrejaEidClientTest.csproj
