@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrejaEidClient", "FrejaEidClient\FrejaEidClient.csproj", "{F6032A49-7995-499A-AA18-87FFC64A491A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrejaEidClientTest", "FrejaEidClientTest\FrejaEidClientTest.csproj", "{AC30D7F4-CF39-478A-AAAC-1EB535FF871A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6032A49-7995-499A-AA18-87FFC64A491A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6032A49-7995-499A-AA18-87FFC64A491A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6032A49-7995-499A-AA18-87FFC64A491A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6032A49-7995-499A-AA18-87FFC64A491A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC30D7F4-CF39-478A-AAAC-1EB535FF871A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC30D7F4-CF39-478A-AAAC-1EB535FF871A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC30D7F4-CF39-478A-AAAC-1EB535FF871A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC30D7F4-CF39-478A-AAAC-1EB535FF871A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15CF7AB9-BEB5-49F5-9712-001EC2C2659E}
+	EndGlobalSection
+EndGlobal
