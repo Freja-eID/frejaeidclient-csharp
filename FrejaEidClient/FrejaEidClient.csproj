@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <RootNamespace>Com.Verisec.FrejaEid.FrejaEidClient</RootNamespace>
-    <TargetFramework>net45</TargetFramework>
+    <TargetFramework>net452</TargetFramework>
     <AssemblyTitle>FrejaEidClient</AssemblyTitle>
     <Product>FrejaEidClient</Product>
     <Copyright>Copyright ©  2020</Copyright>
