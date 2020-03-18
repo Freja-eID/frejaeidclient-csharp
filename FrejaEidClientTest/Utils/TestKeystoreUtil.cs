@@ -11,7 +11,7 @@ namespace Com.Verisec.FrejaEid.FrejaEidClientTest.Utils
 
         public static string GetKeystorePath(string FileName)
         {
-            return Path.GetFullPath(@"../../Resources/" + FileName);
+            return Path.GetFullPath(@"../../../Resources/" + FileName);
         }
 
     }

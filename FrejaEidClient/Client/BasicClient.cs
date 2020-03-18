@@ -4,6 +4,8 @@ using Com.Verisec.FrejaEid.FrejaEidClient.Http;
 using Com.Verisec.FrejaEid.FrejaEidClient.Services;
 using System;
 using System.Security.Cryptography.X509Certificates;
+using System.Runtime.CompilerServices;
+[assembly: InternalsVisibleTo("FrejaEidClientTest")]
 
 namespace Com.Verisec.FrejaEid.FrejaEidClient.Client
 {
