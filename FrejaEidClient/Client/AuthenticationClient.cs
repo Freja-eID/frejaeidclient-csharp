@@ -5,6 +5,8 @@ using Com.Verisec.FrejaEid.FrejaEidClient.Exceptions;
 using Com.Verisec.FrejaEid.FrejaEidClient.Http;
 using Com.Verisec.FrejaEid.FrejaEidClient.Services;
 using System.Collections.Generic;
+using System.Runtime.CompilerServices;
+[assembly: InternalsVisibleTo("FrejaEidClientTest")]
 
 namespace Com.Verisec.FrejaEid.FrejaEidClient.Client
 {
